@@ -38,7 +38,7 @@
 //     --deprecated-text-input-bg: #{$white};
 //     --channeltextarea-background: #{$white};
 //     --input-background: #{$white};
-//     --home-background: #{$white};
+//     --home-background: #{$pink};
 
 //     --text-normal: #{$black};
 //     --text-muted: #{$darkgrey};
@@ -100,7 +100,7 @@
 .theme-light,
 .theme-dark {
     // Main bg colour for main window
-    --background-primary: #{$grey};
+    --background-primary: #{$pink};
 
     // BG for attached items in chatbox?
     --background-secondary: #{$grey};
@@ -237,7 +237,7 @@
 
 // Everything not grey boxes?
 .theme-light {
-    --w9x-background: #{$white};
+    --w9x-background: #{$pink};
     --w9x-text: #{$black};
 }
 
